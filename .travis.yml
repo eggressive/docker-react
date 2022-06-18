@@ -1,4 +1,7 @@
 language: generic 
+arch:     amd64 
+os:       linux  
+dist:     focal  
 services:
   - docker
 
